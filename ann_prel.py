@@ -6,9 +6,7 @@
 
 #Todo : Models. Dummy variables set karne hai.
 
-#Part1 - Data Preprocessing
-
-# Importing the libraries
+#Todo : Solve installation problem
 import numpy as np
 import matplotlib.pyplot as plt
 import pandas as pd
